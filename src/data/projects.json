@@ -1,0 +1,29 @@
+[
+    {
+        "title":"DallasMavericksPlayerStats",
+        "imageSrc":"projects/Mavs.jpg",
+        "description":"Player statistics of the Dallas Mavericks from the past 8 seasons.",
+        "skills":["HTML", "CSS", "JavaScript"],
+        "demo":"https://devonmcfarlen.github.io/DallasMavericksPlayerStats/",
+        "source":"https://github.com/Jaek23/DallasMavericksPlayerStats"
+    },
+
+    {
+        "title":"MyWorkout",
+        "imageSrc":"projects/workout.jpg",
+        "description":"A workout application to store and track your favorite and personal workout plans.",
+        "skills":["HTML", "CSS", "JavaScript"],
+        "demo":"https://my-workouts-c1e5314d5b06.herokuapp.com/login",
+        "source":"https://github.com/Jaek23/my-workouts"
+    },
+
+    {
+        "title":"MyFantasyDraft",
+        "imageSrc":"projects/fantasy.jpg",
+        "description":"Player statistics of all players from all 30 NBA teams from the 2022-2023 season.",
+        "skills":["React", "Node", "Express", "GraphQL"],
+        "demo":"https://myfantasydraft-3b76c1450b6a.herokuapp.com/",
+        "source":"https://github.com/Jaek23/MyFantasyDraft"
+    }
+
+]
