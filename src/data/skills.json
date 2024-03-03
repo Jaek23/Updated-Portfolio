@@ -26,5 +26,25 @@
     {
       "title": "Figma",
       "imageSrc": "skills/figma.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "skills/javascript.png"
+    },
+    {
+      "title": "Bootstrap",
+      "imageSrc": "skills/bootstrap.png"
+    },
+    {
+      "title": "MySQL",
+      "imageSrc": "skills/mysql.png"
+    },
+    {
+      "title": "Express",
+      "imageSrc": "skills/express.png"
+    },
+    {
+      "title": "GitHub",
+      "imageSrc": "skills/github.png"
     }
   ]

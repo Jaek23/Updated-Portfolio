@@ -1,13 +1,15 @@
 import React, {useState} from 'react';
 import styles from './Navbar.module.css';
 import {getImageUrl} from "../../utils";
+import InitialsAvatar from 'react-initials-avatar';
 
 const Navbar = () => {
     const [menuOpen, setMenuOpen] = useState(false);
 
   return (
     <nav className={styles.navbar}>
-        <a className={styles.title} href="/">Portfolio</a>
+        {/* <a className={styles.title} href="/">JK</a> */}
+        <a href="/" className={styles.title}><InitialsAvatar name="Jae Kim"/></a>
         <div className={styles.menu}>
             <img 
             className={styles.menuBtn} 

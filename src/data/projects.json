@@ -2,7 +2,7 @@
     {
         "title":"DallasMavericksPlayerStats",
         "imageSrc":"projects/Mavs.jpg",
-        "description":"Player statistics of the Dallas Mavericks from the past 8 seasons.",
+        "description":"Player statistics of the Dallas Mavericks from the past 8 seasons from 2015-2022.",
         "skills":["HTML", "CSS", "JavaScript"],
         "demo":"https://devonmcfarlen.github.io/DallasMavericksPlayerStats/",
         "source":"https://github.com/Jaek23/DallasMavericksPlayerStats"
