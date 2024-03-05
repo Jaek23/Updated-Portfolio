@@ -14,21 +14,21 @@ const About = () => {
                     <img src={getImageUrl("about/cursorIcon.png")} alt="cursor"/>
                     <div className={styles.aboutItemText}>
                         <h3>Frontend Developer</h3>
-                        <p>I'm a front-end developer with experience in building responsive and optimized sites</p>
+                        <p>I possess a track record of developing numerous personal projects, ensuring the creation of user-friendly and interactive websites for visitors, coupled with proficiency in debugging.</p>
                     </div>
                 </li>
                 <li className={styles.aboutItem}>
                     <img src={getImageUrl("about/serverIcon.png")} alt="server"/>
                     <div className={styles.aboutItemText}>
                         <h3>Backend Developer</h3>
-                        <p>I have experience developing fast and optimised back-end systems and APIs</p>
+                        <p>I bring hands-on experience in integrating third-party APIs into multiple projects, alongside expertise in developing RESTful APIs to enhance the quality of information and data access.</p>
                     </div>
                 </li>
                 <li className={styles.aboutItem}>
                     <img src={getImageUrl("about/uiIcon.png")} alt="UI"/>
                     <div className={styles.aboutItemText}>
                         <h3>UI Designer</h3>
-                        <p>I have designed multiple landing pages and have created design systems as well</p>
+                        <p>I have a background in developing visually appealing applications that prioritize user-friendliness, providing an engaging experience for users to interact with.</p>
                     </div>
                 </li>
             </ul>

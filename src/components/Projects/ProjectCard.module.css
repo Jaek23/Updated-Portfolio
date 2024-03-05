@@ -53,6 +53,12 @@
     justify-content: space-around;
 }
 
+.links a:hover{
+    color:#1f2f98;
+    box-shadow: 0 0 15px #1f2f98;
+    text-shadow: 0 0 5px var(--color-text);
+}
+
 .link{
     text-decoration: none;
     color:var(--color-text);

@@ -32,6 +32,25 @@
     gap: 26px;
 }
 
+.links li a{
+    position: relative;
+    text-decoration: none;
+}
+
+.links li a::before{
+    content: '';
+    position: absolute;
+    width: 0%;
+    height: 4px;
+    bottom: 0;
+    left: 0;
+    background: #fff;
+    transition: width 0.3s ease-in-out;
+}
+.links li a:hover::before{
+    width: 100%;
+}
+
 .link{
     display: flex;
     align-items: center;
@@ -45,6 +64,7 @@
     font-weight: 400;
     letter-spacing: 1.5px;
 }
+
 
 @media screen and (max-width: 830px){
     .container{
