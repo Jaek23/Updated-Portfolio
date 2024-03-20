@@ -1,4 +1,21 @@
-[
+[   {
+        "title":"Workday Scheduler",
+        "imageSrc":"projects/scheduler.png",
+        "description":"A simple workday scheduler app where users can save their todos from 9am-5pm.",
+        "skills":["HTML", "CSS", "JavaScript", "JQuery"],
+        "demo":"https://jaek23.github.io/Workday-Scheduler/",
+        "source":"https://github.com/Jaek23/Workday-Scheduler"
+    },
+
+    {
+        "title":"Weather App",
+        "imageSrc":"projects/weather.png",
+        "description":" Application that shows the current and 5-day weather forcast for any city a user searches.",
+        "skills":["HTML", "CSS", "JavaScript"],
+        "demo":"https://github.com/Jaek23/Weather-App",
+        "source":"https://jaek23.github.io/Weather-App/"
+    },
+
     {
         "title":"DallasMavericksPlayerStats",
         "imageSrc":"projects/Mavs.jpg",
@@ -6,15 +23,6 @@
         "skills":["HTML", "CSS", "JavaScript"],
         "demo":"https://devonmcfarlen.github.io/DallasMavericksPlayerStats/",
         "source":"https://github.com/Jaek23/DallasMavericksPlayerStats"
-    },
-
-    {
-        "title":"MyWorkout",
-        "imageSrc":"projects/workout.jpg",
-        "description":"A workout application to store and track your favorite and personal workout plans.",
-        "skills":["HTML", "CSS", "JavaScript"],
-        "demo":"https://my-workouts-c1e5314d5b06.herokuapp.com/login",
-        "source":"https://github.com/Jaek23/my-workouts"
     },
 
     {
