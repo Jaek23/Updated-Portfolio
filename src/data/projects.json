@@ -12,8 +12,8 @@
         "imageSrc":"projects/weather.png",
         "description":" Application that shows the current and 5-day weather forcast for any city a user searches.",
         "skills":["HTML", "CSS", "JavaScript"],
-        "demo":"https://github.com/Jaek23/Weather-App",
-        "source":"https://jaek23.github.io/Weather-App/"
+        "demo":"https://jaek23.github.io/Weather-App/",
+        "source":"https://github.com/Jaek23/Weather-App"
     },
 
     {
@@ -32,6 +32,15 @@
         "skills":["React", "Node", "Express", "GraphQL"],
         "demo":"https://myfantasydraft-3b76c1450b6a.herokuapp.com/",
         "source":"https://github.com/Jaek23/MyFantasyDraft"
+    },
+
+    {
+        "title":"Insure",
+        "imageSrc":"projects/logo.svg",
+        "description":"Landing page inspired from frontendmentor.io to showcase my frontend skills.",
+        "skills":["React", "CSS", "Bootstrap"],
+        "demo":"https://insurehomepage.netlify.app/",
+        "source":"https://github.com/Jaek23/Insure-landing-page"
     }
 
 ]
