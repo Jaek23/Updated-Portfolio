@@ -17,30 +17,21 @@
     },
 
     {
-        "title":"DallasMavericksPlayerStats",
-        "imageSrc":"projects/Mavs.jpg",
-        "description":"Player statistics of the Dallas Mavericks from the past 8 seasons from 2015-2022.",
-        "skills":["HTML", "CSS", "JavaScript"],
-        "demo":"https://devonmcfarlen.github.io/DallasMavericksPlayerStats/",
-        "source":"https://github.com/Jaek23/DallasMavericksPlayerStats"
-    },
-
-    {
-        "title":"MyFantasyDraft",
-        "imageSrc":"projects/fantasy.jpg",
-        "description":"Player statistics of all players from all 30 NBA teams from the 2022-2023 season.",
-        "skills":["React", "Node", "Express", "GraphQL"],
-        "demo":"https://myfantasydraft-3b76c1450b6a.herokuapp.com/",
-        "source":"https://github.com/Jaek23/MyFantasyDraft"
-    },
-
-    {
         "title":"Insure",
         "imageSrc":"projects/logo.svg",
         "description":"Landing page inspired from frontendmentor.io to showcase my frontend skills.",
         "skills":["React", "CSS", "Bootstrap"],
         "demo":"https://insurehomepage.netlify.app/",
         "source":"https://github.com/Jaek23/Insure-landing-page"
+    },
+
+    {
+        "title":"Barry Ridling Painting",
+        "imageSrc":"projects/big-house.jpg",
+        "description":"Painting service website for customers to write reviews and request estimates.",
+        "skills":["Next.JS", "CSS", "MongoDB"],
+        "demo":"https://www.barryridlingpainting.com/",
+        "source":"https://github.com/Jaek23/barry-ridling-inc"
     }
 
 ]
